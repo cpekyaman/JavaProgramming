@@ -1,0 +1,27 @@
+allprojects {
+    group 'java'
+    version '1.0.0'
+}
+
+ext {
+   
+}
+
+subprojects {
+    apply plugin: 'java'
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+    }
+
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
+    dependencies {
+        testCompile group: 'junit', name: 'junit', version: '4.12'
+        testCompile 'org.assertj:assertj-core:3.8.0'
+    }
+}
+
+
