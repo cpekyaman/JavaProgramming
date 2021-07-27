@@ -2,115 +2,136 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28bf86d6-651d-4d64-ae4e-f30776a7e913" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/factorial/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/gcd/GcdFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/hanoi/HanoiSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/search/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/IterativeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/RecursiveSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/SumApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/ParallelSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SequentialSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SumApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SumWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/Chopstick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/DiningPhilosopherApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/DiningPhilosopherConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/Philosopher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/action/SimpleRecursiveAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/action/SimpleRecursiveActionApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/FindMaxApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/ParallelFindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/SequentialFindMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/task/SimpleRecursiveTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/task/SimpleRecursiveTaskApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/StudentLibApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/StudentLibConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/dining/ChopstickTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/studentlib/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/jmh/java/part02/parallelprocessing/ParallelStreamBenchmark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/ForkJoinLongSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/CustomSpliteratorWordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/IterativeWordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/ParallelStreamWordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/StreamWordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/WordCountSpliterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/WordCountTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part02/parallelprocessing/spliterator/WordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/builder/OrderBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/builder/StockBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/builder/TradeBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/domain/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/domain/Trade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part03/dsl/domain/TradeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/domain/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/domain/DiscountCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/domain/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/domain/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/domain/PriceQuote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/ExchangeRateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/ShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/impl/DiscountServiceSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/impl/ExchangeRateServiceSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/impl/ServiceSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/async/svc/impl/ShopServiceSimulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/reactive/HeatActuator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/reactive/HeatInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part05/reactive/HeatSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part06/functional/EmptyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part06/functional/LazyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/main/java/part06/functional/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/test/java/part02/parallelprocessing/ForkJoinLongSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/test/java/part02/parallelprocessing/spliterator/SpliteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/test/java/part03/dsl/builder/OrderBuilderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/test/java/part05/async/svc/ShopServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/test/java/part05/reactive/RxJavaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modern-java-in-action/src/test/java/part06/functional/LazyListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/backtracking/Coloring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/backtracking/HamiltonianCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/backtracking/KnightsTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/backtracking/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/backtracking/NQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/dynamic/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/dynamic/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/dynamic/Knapsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/selection/QuickSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/udemy-java-multithreading/.gradle/" />
-    <ignored path="$PROJECT_DIR$/udemy-java-multithreading/build/" />
-    <ignored path="$PROJECT_DIR$/udemy-java-multithreading/out/" />
-    <ignored path="$PROJECT_DIR$/udemy-algorithmic-problems/.gradle/" />
-    <ignored path="$PROJECT_DIR$/udemy-algorithmic-problems/build/" />
-    <ignored path="$PROJECT_DIR$/udemy-algorithmic-problems/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileEditorManager">
-    <leaf />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="java-programming" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit3 Test Class" />
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/dining/ChopstickTest.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/DiningPhilosopherConstants.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/DiningPhilosopherApp.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/Chopstick.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/Philosopher.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/studentlib/BookTest.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/Book.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/StudentLibConstants.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/Student.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/StudentLibApp.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SerialMergeSort.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SerialSum.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SequentialSum.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SumWorker.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/ParallelSum.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SumApp.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/SimpleRecursiveAction.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/action/SimpleRecursiveAction.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/action/SimpleRecursiveActionApp.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/task/SimpleRecursiveTaskApp.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/task/SimpleRecursiveTask.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/ParallelFindMax.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/SequentialFindMax.java" />
-        <option value="$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/FindMaxApp.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/IterativeSum.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/RecursiveSum.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/SumApp.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/IterativeSum.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/RecursiveSum.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/gcd/GcdFinder.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/factorial/FactorialApp.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/factorial/Factorial.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/search/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/hanoi/HanoiSolver.java" />
-      </list>
-    </option>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Raistlin/x86_64/JDK/jdk-11.0.7.10/lib/src.zip!/java.base/java/time/format/DateTimeFormatter.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../REPO/Gradle/caches/modules-2/files-2.1/io.reactivex.rxjava3/rxjava/3.0.4/615c91aa196b925c3ff725cbc7b9cc2880dc33bf/rxjava-3.0.4-sources.jar!/io/reactivex/rxjava3/annotations/NonNull.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://C:/Raistlin/x86_64/JDK/jdk-11.0.7.10/lib/src.zip!/java.base/java/util/concurrent/CompletableFuture.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../REPO/Gradle/caches/modules-2/files-2.1/io.reactivex.rxjava3/rxjava/3.0.4/615c91aa196b925c3ff725cbc7b9cc2880dc33bf/rxjava-3.0.4-sources.jar!/io/reactivex/rxjava3/core/Observable.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../REPO/Gradle/caches/modules-2/files-2.1/io.reactivex.rxjava3/rxjava/3.0.4/615c91aa196b925c3ff725cbc7b9cc2880dc33bf/rxjava-3.0.4-sources.jar!/io/reactivex/rxjava3/core/ObservableOnSubscribe.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
     <exe-path />
     <config-path />
   </component>
+  <component name="JupyterTrust" id="68046abe-1c61-417d-b40f-78d1a8931a06" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -118,142 +139,176 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1848" />
-    <option name="height" value="1088" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
+  <component name="ProjectId" id="1cMa1iVCrPFUQYmMedwpoSTgDwW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546199558941" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546775344909" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="javascript.nodejs.core.library.configured.version" value="8.2.1" />
-    <property name="last_opened_file_path" value="C:/Raistlin/Development/nodejs/node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OJ/HackerRank" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Raistlin/Development/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="part06.functional" />
+      <recent name="part05.async.svc" />
+      <recent name="part03.dsl.builder" />
+      <recent name="part02.parallelprocessing" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="part02.parallelprocessing.spliterator" />
+      <recent name="part02" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="part05.async.domain" />
+      <recent name="part02.parallelprocessing.spliterator" />
       <recent name="udemy.java.multithreading.forkjoin.task" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
+  <component name="RunManager" selected="Gradle.LazyListTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.java.algorithmic.recursion.search.BinarySearch" />
-      <module name="udemy-algorithmic-problems" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.java.algorithmic.recursion.search.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.java.algorithmic.recursion.factorial.Factorial" />
-      <module name="udemy-algorithmic-problems" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.java.algorithmic.recursion.factorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.java.algorithmic.recursion.factorial.FactorialApp" />
-      <module name="udemy-algorithmic-problems" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.java.algorithmic.recursion.factorial.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMaxApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.java.multithreading.forkjoin.findmax.FindMaxApp" />
-      <module name="udemy-java-multithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.java.multithreading.forkjoin.findmax.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="udemy.java.algorithmic.recursion.sum.SumApp" />
-      <module name="udemy-algorithmic-problems" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="udemy.java.algorithmic.recursion.sum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="LazyListTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;part06.functional.LazyListTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":modern-java-in-action:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderBuilderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;part03.dsl.builder.OrderBuilderTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":modern-java-in-action:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RxJavaTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;part05.reactive.RxJavaTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":modern-java-in-action:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ShopServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;part05.async.svc.ShopServiceTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":modern-java-in-action:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpliteratorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;part02.parallelprocessing.spliterator.SpliteratorTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":modern-java-in-action:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
@@ -263,6 +318,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -272,11 +328,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Factorial" />
-        <item itemvalue="Application.SumApp (1)" />
-        <item itemvalue="Application.FactorialApp" />
-        <item itemvalue="Application.FindMaxApp" />
+        <item itemvalue="Gradle.LazyListTest" />
+        <item itemvalue="Gradle.RxJavaTest" />
+        <item itemvalue="Gradle.ShopServiceTest" />
+        <item itemvalue="Gradle.OrderBuilderTest" />
+        <item itemvalue="Gradle.SpliteratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -292,470 +348,80 @@
       <workItem from="1546086996998" duration="6269000" />
       <workItem from="1546170209455" duration="1333000" />
       <workItem from="1546192838261" duration="4363000" />
+      <workItem from="1546341741619" duration="7818000" />
+      <workItem from="1546451387507" duration="3667000" />
+      <workItem from="1546773352002" duration="1683000" />
+      <workItem from="1546775397572" duration="4014000" />
+      <workItem from="1590340708997" duration="1868000" />
+      <workItem from="1590342903177" duration="549000" />
+      <workItem from="1590346018396" duration="6325000" />
+      <workItem from="1590612612145" duration="2326000" />
+      <workItem from="1590871769529" duration="2561000" />
+      <workItem from="1590914765049" duration="3742000" />
+      <workItem from="1590952178362" duration="3297000" />
+      <workItem from="1591043094751" duration="2704000" />
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="ChopstickTest - 2018.12.27 at 21h 20m 10s.xml">
-      <configuration name="ChopstickTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChopstickTest - 2018.12.27 at 21h 21m 31s.xml">
-      <configuration name="ChopstickTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChopstickTest - 2018.12.27 at 21h 26m 12s.xml">
-      <configuration name="ChopstickTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChopstickTest - 2018.12.27 at 21h 29m 39s.xml">
-      <configuration name="ChopstickTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ChopstickTest - 2018.12.27 at 22h 29m 42s.xml">
-      <configuration name="ChopstickTest" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19393000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1864" height="1088" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26074973" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21964097" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32946146" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32946146" />
-      <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Gradle" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/dining/PhilosopherTest.java" />
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="320" column="12" selection-start-line="320" selection-start-column="12" selection-end-line="320" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/atomic/AtomicBoolean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/DiningPhilosopherConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/dining/ChopstickTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1180">
-          <caret line="63" column="29" selection-start-line="63" selection-start-column="29" selection-end-line="63" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/Philosopher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="e#1697#1698#0" expanded="true" />
-            <element signature="e#1772#1773#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/Chopstick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/test/java/udemy/java/multithreading/studentlib/BookTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="31" column="5" selection-start-line="29" selection-start-column="4" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/StudentLibConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/dining/DiningPhilosopherApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="33" column="9" selection-start-line="22" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/StudentLibApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/studentlib/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#520#521#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SerialMergeSort.java" />
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SequentialSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1757">
-          <caret line="235" column="18" selection-start-line="235" selection-start-column="18" selection-end-line="235" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="1931" column="13" selection-start-line="1931" selection-start-column="13" selection-end-line="1931" selection-end-column="13" />
-          <folding>
-            <element signature="e#84041#84042#0" expanded="true" />
-            <element signature="e#84095#84096#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SumWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/ParallelSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/ForkJoinTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="696" column="33" selection-start-line="696" selection-start-column="33" selection-end-line="696" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/action/SimpleRecursiveAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#272#273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Raistlin/x86_64/JDK/jdk1.8.0_171/src.zip!/java/util/concurrent/ForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="2611" column="17" selection-start-line="2611" selection-start-column="17" selection-end-line="2611" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/task/SimpleRecursiveTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/task/SimpleRecursiveTaskApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/action/SimpleRecursiveActionApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/SequentialFindMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/ParallelFindMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="107" selection-start-line="25" selection-start-column="107" selection-end-line="25" selection-end-column="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/algorithms/SumApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-java-multithreading/src/main/java/udemy/java/multithreading/forkjoin/findmax/FindMaxApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/IterativeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/SumApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/sum/RecursiveSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/gcd/GcdFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/factorial/FactorialApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/factorial/Factorial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/search/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/udemy-algorithmic-problems/src/main/java/udemy/java/algorithmic/recursion/hanoi/HanoiSolver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Python 3.5.2 interpreter library</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="737" y="260" key="#com.intellij.ide.util.MemberChooser" timestamp="1591043559053">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="737" y="260" key="#com.intellij.ide.util.MemberChooser/0.0.1856.1080@0.0.1856.1080" timestamp="1591043559053" />
+    <state x="554" y="471" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590612755525">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="554" y="471" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1856.1080@0.0.1856.1080" timestamp="1590612755525" />
+    <state x="682" y="417" width="492" height="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590354839424">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="682" y="417" width="492" height="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1856.1080@0.0.1856.1080" timestamp="1590354839424" />
+    <state x="682" y="429" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1590343051802">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="682" y="429" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1856.1080@0.0.1856.1080" timestamp="1590343051802" />
+    <state x="632" y="137" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590916843749">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="632" y="137" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1856.1080@0.0.1856.1080" timestamp="1590916843749" />
+    <state x="755" y="356" key="FileChooserDialogImpl" timestamp="1590872507950">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="755" y="356" key="FileChooserDialogImpl/0.0.1856.1080@0.0.1856.1080" timestamp="1590872507950" />
+    <state width="1814" height="302" key="GridCell.Tab.0.bottom" timestamp="1591046366223">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="302" key="GridCell.Tab.0.bottom/0.0.1856.1080@0.0.1856.1080" timestamp="1591046366223" />
+    <state width="1814" height="302" key="GridCell.Tab.0.center" timestamp="1591046366208">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="302" key="GridCell.Tab.0.center/0.0.1856.1080@0.0.1856.1080" timestamp="1591046366208" />
+    <state width="1814" height="302" key="GridCell.Tab.0.left" timestamp="1591046366208">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="302" key="GridCell.Tab.0.left/0.0.1856.1080@0.0.1856.1080" timestamp="1591046366208" />
+    <state width="1814" height="302" key="GridCell.Tab.0.right" timestamp="1591046366223">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state width="1814" height="302" key="GridCell.Tab.0.right/0.0.1856.1080@0.0.1856.1080" timestamp="1591046366223" />
+    <state x="455" y="176" key="SettingsEditor" timestamp="1590872524720">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="455" y="176" key="SettingsEditor/0.0.1856.1080@0.0.1856.1080" timestamp="1590872524720" />
+    <state x="703" y="370" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591043697195">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="703" y="370" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1856.1080@0.0.1856.1080" timestamp="1591043697195" />
+    <state x="588" y="248" key="run.anything.popup" timestamp="1590355207855">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="588" y="248" key="run.anything.popup/0.0.1856.1080@0.0.1856.1080" timestamp="1590355207855" />
+    <state x="591" y="237" width="672" height="678" key="search.everywhere.popup" timestamp="1590917650632">
+      <screen x="0" y="0" width="1856" height="1080" />
+    </state>
+    <state x="591" y="237" width="672" height="678" key="search.everywhere.popup/0.0.1856.1080@0.0.1856.1080" timestamp="1590917650632" />
   </component>
 </project>

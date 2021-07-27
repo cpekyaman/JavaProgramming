@@ -2,3 +2,4 @@ rootProject.name = 'java-programming'
 
 include 'udemy-java-multithreading'
 include 'udemy-algorithmic-problems'
+include 'modern-java-in-action'
